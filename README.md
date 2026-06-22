@@ -6,7 +6,7 @@ This repository features an enterprise-grade **HR Attrition Analytics Dashboard*
 ---
 
 ## 📷 Dashboard Preview
-Screenshot 2026-03-21 161851
+![HR Attrition Dashboard](Screenshot 2026-03-21 161851.png)
 ---
 
 ## 💡 Executive Insights & Workforce KPIs
